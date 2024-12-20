@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tommylai/Downloads/Tetris1/Tetris1.csproj": {}
+    "/Users/tommylai/Documents/GitHub/IERG3080/Tetris1/Tetris1.csproj": {}
   },
   "projects": {
-    "/Users/tommylai/Downloads/Tetris1/Tetris1.csproj": {
+    "/Users/tommylai/Documents/GitHub/IERG3080/Tetris1/Tetris1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tommylai/Downloads/Tetris1/Tetris1.csproj",
+        "projectUniqueName": "/Users/tommylai/Documents/GitHub/IERG3080/Tetris1/Tetris1.csproj",
         "projectName": "Tetris1",
-        "projectPath": "/Users/tommylai/Downloads/Tetris1/Tetris1.csproj",
+        "projectPath": "/Users/tommylai/Documents/GitHub/IERG3080/Tetris1/Tetris1.csproj",
         "packagesPath": "/Users/tommylai/.nuget/packages/",
-        "outputPath": "/Users/tommylai/Downloads/Tetris1/obj/",
+        "outputPath": "/Users/tommylai/Documents/GitHub/IERG3080/Tetris1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tommylai/.nuget/NuGet/NuGet.Config"
